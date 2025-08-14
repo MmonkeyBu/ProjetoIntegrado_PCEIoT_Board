@@ -209,7 +209,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo `LICENSE` para
 
 - **Carlos Elias** - Desenvolvimento do driver SSD1306, DEMO inicial e documentação do projeto
 - **Erick Charles** - o que erick fez...
-- **Pablo Daniel** - o que pablo fez...
+- **Pablo Daniel** - Desenvolvimento do Driver SHT4xl, monitoramento via Serial e apartir de funções e documentação do projeto.
 
 ## Referências
 
